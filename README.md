@@ -8,4 +8,4 @@
 
 
 # Offshore Fleet Performance
-**Live Pdf:** 
+**Live Pdf:** [View pdf file](https://github.com/enarjk/Power-BI-Report/blob/main/Offshore%20Fleet%20Performance.pdf)
